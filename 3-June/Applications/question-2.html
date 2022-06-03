@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quesiton-2</title>
+</head>
+<body>
+
+    <h1></h1>
+
+    <input type="text" id="i1">
+
+
+</body>
+</html>
+<!-- 2) Ekrana bir adet input ve bir adet h1 oy. Inputa bir şeyler yazarken, yazdıklarım aynı anda 
+h1 de gözüksün ( input onchange get value olarak aratabilirsin.) -->
+<script>
+
+    $("#i1").keypress(function () {
+
+        var v = $(this).val();
+
+        $("h1").text(v);
+
+    });
+</script>
+    
+    

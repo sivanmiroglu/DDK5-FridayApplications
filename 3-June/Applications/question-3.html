@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quesiton-3</title>
+</head>
+<body>
+    <h1>Seçenek : </h1>
+    <label for="s1">Seçenekler : </label>
+        <select id="secenkler">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+    </select>
+</body>
+</html>
+<!-- 3) Ekrana bir adet select koy ve içerisine 10 adet option ekle  Daha sonra ekrana bir adet h1 koy. 
+Her option değiştiğinde yeni option içerisinde yazan text h1 e yazsın. -->
+
+<!-- 4) Yukarıdaki örnekte optionlara value ver. Ve her select değiştiğinde bu sefer
+ h1 içerisine value yazsın. -->
+
+<script>
+    $("#secenekler").change(function () {
+        var v = $(this).val();
+        $("h1").text(v);
+    });
+
+</script>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>question-1</title>
+</head>
+<body>
+    <div>
+        <button>button1</button>
+
+        <button>button2</button>
+
+        <button>button3</button>
+
+        <button>button4</button>
+        
+        <button>button5</button>
+    </div>
+   
+</body>
+
+<!-- 1) Ekrana 5 tane buton koy. Herhangi bir butona bastığında tüm butonlar her bastığımızda 
+10 px sağa kaysın. -->
+<script>
+      var MarginLeft = 0
+    $("button").click(function(){
+
+     
+        
+        MarginLeft +=10 
+
+        $("button").css("margin-left", MarginLeft + "px")
+        
+                
+    })
+    
+</script>
+</html>

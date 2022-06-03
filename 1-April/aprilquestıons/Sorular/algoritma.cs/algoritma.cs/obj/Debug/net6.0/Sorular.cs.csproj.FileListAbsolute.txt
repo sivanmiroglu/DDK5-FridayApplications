@@ -1,0 +1,30 @@
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.exe
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.deps.json
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.runtimeconfig.json
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.pdb
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.csproj.AssemblyReference.cache
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.AssemblyInfoInputs.cache
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.AssemblyInfo.cs
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.csproj.CoreCompileInputs.cache
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\refint\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.pdb
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.genruntimeconfig.cache
+C:\Users\Z004J86X\Desktop\CumaYapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\ref\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.exe
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.deps.json
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.runtimeconfig.json
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\bin\Debug\net6.0\Sorular.cs.pdb
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.csproj.AssemblyReference.cache
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.AssemblyInfoInputs.cache
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.AssemblyInfo.cs
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.csproj.CoreCompileInputs.cache
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\refint\Sorular.cs.dll
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.pdb
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\Sorular.cs.genruntimeconfig.cache
+C:\Users\Z004J86X\Desktop\Cuma Yapılanlar\algoritma.cs\algoritma.cs\obj\Debug\net6.0\ref\Sorular.cs.dll
