@@ -10,7 +10,7 @@
 </head>
 <body>
     <div>
-        <ul id="l1">
+        <ul id="d1">
             <li>1</li>
             <li>2</li>
             <li>3</li>
@@ -19,7 +19,7 @@
         </ul>
         <label for="l1"></label>
         <input type="text" id="l1">
-        <button>Append to list</button>
+        <button>Listeleye ekleme yap</button>
     </div>
 </body>
 </html>
@@ -31,6 +31,6 @@ Butona her tıkladığında inputtan aldığı veriyi yeni bir li elementi olara
     $("button").click(function(){
 
         var x=$("#l1").val();
-        $("#l1").append("<li>"+ x + "</li>");
+        $("#d1").append("<li>"+ x + "</li>");
     })
 </script>
